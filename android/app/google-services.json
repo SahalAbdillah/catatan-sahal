@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549942825872",
+    "project_id": "note-9f175",
+    "storage_bucket": "note-9f175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549942825872:android:a180b1c9a3b3a43b9cd915",
+        "android_client_info": {
+          "package_name": "com.example.catatan_sederhana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtcXs6X6Avv-Juz6N5IMsgOUPl1o65WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
